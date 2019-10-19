@@ -1,0 +1,12 @@
+PoE.py
+git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
+Pillow
+nltk
+urllib3
+cachetools
+bs4
+
+aiohttp
+pytesseract
+tesseract
+tesseract-ocr
